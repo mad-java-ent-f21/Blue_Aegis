@@ -1,4 +1,5 @@
 # AegisBlue: Team Charter
+### Team Name: AegisBlue
 
 ### Team Members: Subu, Julie Johnson, Ryan Michaelis, Tosan Ogedengbe
 

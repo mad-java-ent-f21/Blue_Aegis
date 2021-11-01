@@ -1,4 +1,5 @@
 # AegisBlue: Team Resume
+### Team Name: AegisBlue
 
 ### Team Members: Subu, Julie Johnson, Ryan Michaelis, Tosan Ogedengbe
 

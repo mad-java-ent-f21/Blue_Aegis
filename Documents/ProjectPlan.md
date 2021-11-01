@@ -1,7 +1,7 @@
 # AegisBlue: Project Plan
-### Team Name: Aegis Blue
+### Team Name: AegisBlue
 ### Team Members:  Subu, Julie Johnson, Ryan Michaelis, & Tosan Ogedengbe
-### Project Name: Aegis:Vigilant
+### Team Project Name: Aegis:Vigilant
 
 ### Problem Statement: 
 Zero Day Software Vulnerabilities (Zero-Days,) are a major IT security threat that require immediate attention. The purpose of this web service is to aggregate these alerts into a single service, which security teams could access at any time. 
