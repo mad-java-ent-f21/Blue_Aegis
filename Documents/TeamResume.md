@@ -1,5 +1,9 @@
 # AegisBlue: Team Resume
 
+### Team Members: Subu, Julie Johnson, Ryan Michaelis, Tosan Ogedengbe
+
+**Welcome to the AegisBlue Team Resume.** This is a brief summary of the personal and professional experiences, skills, education history and some fun fact background information on all team members of AegisBlue. 
+
 ### Julie Johnson:
 **Julie Johnson** is a good speaker and is very creative. She likes competition, thinks fast on her feet and is able to make decisions quickly. 
 By her own admission, she is more of a thinker than a talker and thinks very fast on her feet. She is great with numbers, stats and data and enjoys working with these things. 

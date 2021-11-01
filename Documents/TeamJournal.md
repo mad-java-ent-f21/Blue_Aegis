@@ -1,8 +1,7 @@
 # AegisBlue: Team Journal (TimeLogs)
 
-## Team Name: AegisBlue
 ### Team Members: Subu, Julie Johnson, Ryan Michaelis, Tosan Ogedengbe
-### Team Project: Aegis:Vigilant
+### Team Project Name: Aegis:Vigilant
 
 
 ### JOURNAL ENTRY #1 - October 27, 2021

@@ -1,4 +1,4 @@
-## AegisBlue: Team Charter
+# AegisBlue: Team Charter
 
 ### Team Members: Subu, Julie Johnson, Ryan Michaelis, Tosan Ogedengbe
 
@@ -10,7 +10,7 @@ To create an API that meets that incorporates our documented Problem Statement a
 
 **Place:** Blackboard Collaborate: Room C
 
-### Communication:
+### Team Communication:
 All outside communication will be done through Slack. All team members will check Slack regularly for announcements and updates. Here is where we will plan and discuss project work and set topics for upcoming meetings. 
 
 ### Team Rules:

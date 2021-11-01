@@ -4,9 +4,9 @@
 ### Project Name: Aegis:Vigilant
 
 ### Problem Statement: 
-*Zero Day Software Vulnerabilities (Zero-Days,) are a major IT security threat that require immediate attention. The purpose of this web service is to aggregate these alerts into a single service, which security teams could access at any time.* 
+Zero Day Software Vulnerabilities (Zero-Days,) are a major IT security threat that require immediate attention. The purpose of this web service is to aggregate these alerts into a single service, which security teams could access at any time. 
 
-### WEEK 1: 	10/27 – 11/1
+### SPAN 1: 	10/27 – 11/1
 - [x]	Preliminary set up meeting
 - [x]	Determined Team name
 - [x]	Preliminary project idea discussion
@@ -14,7 +14,7 @@
 - [x]	Create standard ongoing team meeting place and time
 - [x]	Update Weekly TimeLogs
 
-### WEEK 2: 	11/2 – 11/8
+### SPAN 2: 	11/2 – 11/8
 - [ ]	Discuss and establish problem statement
 - [ ]   Discuss and establish user stories
 - [ ]	Discuss data the web service will handle
@@ -28,7 +28,7 @@
 - [ ]	Update Weekly TimeLogs
 
 
-### WEEK 3: 	11/9 – 11/15
+### SPAN 3: 	11/9 – 11/15
 - [ ]	Code Review for Model Classes
 - [ ]	Code Review for Controller Classes
 - [ ]	Code Review for View JSPs
@@ -40,7 +40,7 @@
 - [ ]	Check on Presentation needs and status
 - [ ]	Update Weekly TimeLogs
 
-### WEEK 4: 	11/16 – 11/17
+### SPAN 4: 	11/16 – 11/17
 - [ ]	Code Review #2 for Model Classes
 - [ ]	Code Review #2 for Controller Classes
 - [ ]	Code Review #2 for View JSPs
