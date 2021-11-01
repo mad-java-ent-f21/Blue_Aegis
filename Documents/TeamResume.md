@@ -29,3 +29,8 @@ and really enjoys pulling ideas together and enjoys the research that is sometim
 served as a project manager. Tosan can explain the Model, View, Controller (MVC) concept to others. In his work history, Tosan has had to both hire and fire people and promote
 people. Tosan has had to perform in front of a crowd on many occasions. Tosan could at one point speak French and Yoruba but would need to study these languages a bit to pick
 them up again.
+
+
+### Subu Karki:
+**Subu Karki**
+Subu is a good listener and is a creative. She thinks fast  and is able to make decisions quickly. she spent time on thinking . She enjoys working with creativity . She likes to collect ideas. Subu  works in IT with skills of SQL, Selenium/Java.
