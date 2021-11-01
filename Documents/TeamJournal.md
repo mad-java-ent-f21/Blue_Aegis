@@ -1,14 +1,14 @@
-# Enterprise Java Fall 2021: TEAM JOURNAL
+# AegisBlue: Team Journal (TimeLogs)
 
-## Team Name: Aegis Blue
-## Team Members: Subu, Julie Johnson, Ryan Michaelis, Tosan Ogedengbe
-## Team Project: Aegis:Vigilant
+## Team Name: AegisBlue
+### Team Members: Subu, Julie Johnson, Ryan Michaelis, Tosan Ogedengbe
+### Team Project: Aegis:Vigilant
 
 
 ### JOURNAL ENTRY #1 - October 27, 2021
-Attendees: Ryan, Julie, Tosan, Subu.
+*Attendees: Ryan, Julie, Tosan, Subu.*
 
-This is a journal entry that covers the team meeting activities from 10/27/2021. 
+This journal entry covers the team meeting activities from 10/27/2021. 
 
 1. Went through the team agenda provided by Paula in Slack.
 
@@ -56,12 +56,27 @@ This is a journal entry that covers the team meeting activities from 10/27/2021.
 
 
 ### JOURNAL ENTRY #2 - October 29, 2021
-Attendees: None.
+*Attendees: None.*
 
-This is a journal entry that covers the team meeting activities on 10/29/2021. 
+This journal entry covers team activities on 10/29/2021. 
 
 1. Tosan checked Slack on the morning of the 29th to see that deliverables were to be submitted on Sunday the 31st.
-	This would be an issue as we had set deadlines for 11/1 and 11/2 which were after that deadline.
+	- This would be an issue as we had set deadlines for 11/1 and 11/2 which were after that deadline.
 
 2. A message in Slack was sent out to the team to get these materials done a day and a half sooner than we planned.
-	The team members all responded and submitted the materials as requested, and these were able to get sent in on time. 
+	- The team members all responded and submitted the materials as requested, and these were able to get sent in on time. 
+	
+
+### JOURNAL ENTRY #3 - October 31, 2021
+*Attendees: None.*
+
+This journal entry covers team activities on 10/31/2021. 
+
+1. Tosan checked Slack on the morning of the 31st to see that assignments from other team memebers were submitted to Slack as requested. 
+	- The team repo was created by Ryan as assigned. 
+	- Tosan compiled the data recieved for the Team Resume as assigned.
+	- Tosan would also do all of this for the Team Project Plan, Team Charter and put all of these entries on the Team Journal.
+	- These would all be submiited to the team git repo as required and an issue placed in the repo for the instructor.
+	
+	
+	
