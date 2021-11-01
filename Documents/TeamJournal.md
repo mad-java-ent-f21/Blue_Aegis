@@ -65,28 +65,3 @@ This is a journal entry that covers the team meeting activities on 10/29/2021.
 
 2. A message in Slack was sent out to the team to get these materials done a day and a half sooner than we planned.
 	The team members all responded and submitted the materials as requested, and these were able to get sent in on time. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
