@@ -1,11 +1,11 @@
-#Enterprise Java Fall 2021: TEAM JOURNAL
+# Enterprise Java Fall 2021: TEAM JOURNAL
 
-##Team Name: Aegis Blue
-##Team Members: Subu, Julie Johnson, Ryan Michaelis, Tosan Ogedengbe
-##Team Project: Aegis:Vigilant
+## Team Name: Aegis Blue
+## Team Members: Subu, Julie Johnson, Ryan Michaelis, Tosan Ogedengbe
+## Team Project: Aegis:Vigilant
 
 
-###JOURNAL ENTRY #1 - October 27, 2021
+### JOURNAL ENTRY #1 - October 27, 2021
 Attendees: Ryan, Julie, Tosan, Subu.
 
 This is a journal entry that covers the team meeting activities from 10/27/2021. 
@@ -55,7 +55,7 @@ This is a journal entry that covers the team meeting activities from 10/27/2021.
 
 
 
-###JOURNAL ENTRY #2 - October 29, 2021
+### JOURNAL ENTRY #2 - October 29, 2021
 Attendees: None.
 
 This is a journal entry that covers the team meeting activities on 10/29/2021. 
