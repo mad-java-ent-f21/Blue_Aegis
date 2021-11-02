@@ -1,7 +1,7 @@
 # AegisBlue: Team Journal
 ### Team Name: AegisBlue
 
-### Team Members: Subu, Julie Johnson, Ryan Michaelis, Tosan Ogedengbe
+### Team Members: Julie Johnson, Subu Karki, Ryan Michaelis, Tosan Ogedengbe
 ### Team Project Name: Aegis:Vigilant
 
 

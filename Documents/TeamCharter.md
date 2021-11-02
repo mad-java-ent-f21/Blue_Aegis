@@ -1,7 +1,7 @@
 # AegisBlue: Team Charter
 ### Team Name: AegisBlue
 
-### Team Members: Subu, Julie Johnson, Ryan Michaelis, Tosan Ogedengbe
+### Team Members: Julie Johnson, Subu Karki, Ryan Michaelis, Tosan Ogedengbe
 
 ### Team Goal:
 To create an API that meets that incorporates our documented Problem Statement and solution. We are to complete this project as outlined in the course requirements by the established deadline
