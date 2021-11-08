@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AegisBlue">
+    <output-path>$PROJECT_DIR$/out/artifacts/AegisBlue</output-path>
+    <root id="archive" name="AegisBlue.war" />
+  </artifact>
+</component>
