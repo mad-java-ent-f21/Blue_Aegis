@@ -1,8 +1,16 @@
 package com.aegisheroes.persistence;
 
 import junit.framework.TestCase;
-public class SWAPIDaoTest extends TestCase {
+import org.junit.Test;
 
-    public void testGetPlanet() {
+import static org.junit.Assert.assertEquals;
+
+public class SWAPIDaoTest {
+
+    @Test
+    public void getPlanetSuccess() {
+        SWAPIDao dao = new SWAPIDao();
+        dao.getPlanet();
+        assertEquals("Tatooine", dao.getPlanet().getName());
     }
 }
