@@ -1,8 +1,12 @@
 package com.aegisheroes.persistence;
 
-import com.sun.security.ntlm.Client;
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.swapi.Planet;
 
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.client.WebTarget;
 import java.awt.*;
 
 public class SWAPIDao {
@@ -18,7 +22,7 @@ public class SWAPIDao {
         Planet planet = null;
 
         try {
-            planet = mapper.ReadValue(response, Planet.class);
+            planet = mapper.readValue(response, Planet.class);
         } catch (JsonProcessingException e) {
             e.printStackTrace();
         }
