@@ -1,31 +1,38 @@
-package JsoupTest;
-
-import java.io.File;
-import java.io.IOException;
+package com.aegisheroes.controller;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import javax.ws.rs.Path;
+import java.io.IOException;
+@Path("/scrape")
 public class ScreenScrape {
+    @Path("/zeroday")
+    public void getZeroDayInitiative() {
 
-    public static void main(String[] args) throws IOException {
+        try {
+            // Here we create a document object and use JSoup to fetch the website
+            Document doc = Jsoup.connect("https://www.zerodayinitiative.com/rss/upcoming").get();
 
-        File input = new File("html.html"); //path to html.html https://www.zerodayinitiative.com/rss/upcoming/
-        Document doc = Jsoup.parse(input, "UTF-8");
+            // With the document fetched, we use JSoup's title() method to fetch the title
+            System.out.printf("Title: %s\n", doc.title());
 
-        Elements contents = doc.getElementsByClass("data");
+            // the data is wrapped inside item tag
+            Elements repositories = doc.getElementsByTag("item");
+            for (Element repository : repositories) {
+                System.out.println("Title: " + repository.getElementsByTag("title").text());
+                System.out.println("Link: " + repository.getElementsByTag("link").text());
+                System.out.println("Description: " + repository.getElementsByTag("description").text());
+                System.out.println("Published Date: " + repository.getElementsByTag("pubDate").text());
+                System.out.println("-------------------------------");
+            }
 
-        for (Element content : contents) {
-            String name = content.getElementsByClass("name").first().html();
-            String stat = content.getElementsByClass("stat").first().html();
-            String stat2 = content.getElementsByClass("stat2").first().html();
-            System.out.println("name: " + name);
-            System.out.println("stat: " + stat);
-            System.out.println("stat2: " + stat2 + "\n----");
+            // In case of any IO errors, we want the messages written to the console
+        } catch (IOException e) {
+            e.printStackTrace();
         }
-
     }
-
 }
+
