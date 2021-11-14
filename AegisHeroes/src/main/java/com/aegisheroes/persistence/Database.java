@@ -1,8 +1,6 @@
 package com.aegisheroes.persistence;
 
-package edu.matc.persistence;
-
-import edu.matc.entity.User;
+import com.aegisheroes.entity.Vulnerability;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -14,7 +12,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Properties;
-import edu.matc.utilities.PropertiesLoaderInterface;
+import com.aegisheroes.utilities.PropertiesLoaderInterface;
 
 /**
  * Provides access to the database

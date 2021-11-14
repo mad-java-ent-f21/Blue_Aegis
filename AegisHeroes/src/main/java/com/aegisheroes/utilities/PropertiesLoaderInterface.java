@@ -1,7 +1,5 @@
 package com.aegisheroes.utilities;
 
-package edu.matc.utilities;
-
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
