@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Aegis-Blue.iml" filepath="$PROJECT_DIR$/.idea/Aegis-Blue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AegisHeroes/resetservicedemo.iml" filepath="$PROJECT_DIR$/AegisHeroes/resetservicedemo.iml" />
     </modules>
   </component>
 </project>
