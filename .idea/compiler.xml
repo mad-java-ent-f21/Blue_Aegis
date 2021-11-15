@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Aegis-Blue" />
+        <module name="ourteamproject" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Aegis-Blue" target="11" />
+      <module name="ourteamproject" target="11" />
       <module name="resetservicedemo" target="11" />
     </bytecodeTargetLevel>
   </component>
