@@ -9,7 +9,7 @@
         <unpackNestedArchives>false</unpackNestedArchives>
       </options>
     </properties>
-    <root id="archive" name="ourteamproject-1.0-SNAPSHOT.war">
+    <root id="archive" name="Aegis-Blue.war">
       <element id="artifact" artifact-name="Aegis-Blue:war exploded" />
     </root>
   </artifact>

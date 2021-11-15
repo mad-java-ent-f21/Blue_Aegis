@@ -13,11 +13,15 @@
     </facet>
     <facet type="web" name="Web">
       <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/AegisHeroes/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
         <webroots>
           <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
         </webroots>
         <sourceRoots>
           <root url="file://$MODULE_DIR$/AegisHeroes/src/main/java" />
+          <root url="file://$MODULE_DIR$/AegisHeroes/src/main/resources" />
           <root url="file://$MODULE_DIR$/src/main/java" />
         </sourceRoots>
       </configuration>
@@ -41,6 +45,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/AegisHeroes/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/AegisHeroes/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/AegisHeroes/src/main/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/${project.build.directory}/classes" />
       <excludeFolder url="file://$MODULE_DIR$/${project.build.directory}/test-classes" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
