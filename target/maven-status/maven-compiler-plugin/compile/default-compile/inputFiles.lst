@@ -1,0 +1,9 @@
+/home/student/IdeaProjects/Blue_Aegis/src/main/java/com/aegisheroes/persistence/VulnerabilityData.java
+/home/student/IdeaProjects/Blue_Aegis/src/main/java/com/aegisheroes/entity/Vulnerability.java
+/home/student/IdeaProjects/Blue_Aegis/src/main/java/com/aegisheroes/persistence/SessionFactoryProvider.java
+/home/student/IdeaProjects/Blue_Aegis/src/main/java/com/aegisheroes/persistence/VulnerabilityDao.java
+/home/student/IdeaProjects/Blue_Aegis/src/main/java/com/aegisheroes/controller/SearchUpcomingAdvisories.java
+/home/student/IdeaProjects/Blue_Aegis/src/main/java/com/aegisheroes/controller/ScreenScrape.java
+/home/student/IdeaProjects/Blue_Aegis/src/main/java/com/aegisheroes/utilities/PropertiesLoaderInterface.java
+/home/student/IdeaProjects/Blue_Aegis/src/main/java/com/aegisheroes/controller/SearchPublishedAdvisories.java
+/home/student/IdeaProjects/Blue_Aegis/src/main/java/com/aegisheroes/persistence/Database.java

@@ -1,0 +1,9 @@
+com/aegisheroes/entity/Vulnerability.class
+com/aegisheroes/controller/SearchPublishedAdvisories.class
+com/aegisheroes/persistence/VulnerabilityDao.class
+com/aegisheroes/persistence/VulnerabilityData.class
+com/aegisheroes/utilities/PropertiesLoaderInterface.class
+com/aegisheroes/controller/SearchUpcomingAdvisories.class
+com/aegisheroes/controller/ScreenScrape.class
+com/aegisheroes/persistence/Database.class
+com/aegisheroes/persistence/SessionFactoryProvider.class
